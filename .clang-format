@@ -9,3 +9,4 @@ BinPackParameters: false
 AlwaysBreakAfterReturnType: None
 AlwaysBreakAfterDefinitionReturnType: None
 AllowShortFunctionsOnASingleLine: false
+BreakBeforeBraces: Stroustrup
